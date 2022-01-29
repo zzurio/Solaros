@@ -1,0 +1,18 @@
+{
+  "required": true,
+  "compatibilityLevel": "JAVA_8",
+  "package": "club.cpacket.solaros.mixin.mixins",
+  "refmap": "mixins.solaros.refmap.json",
+  "mixins": [
+    "accessors.ICPacketPlayer",
+    "accessors.IEntity",
+    "blocks.MixinBlockLiquid",
+    "entity.MixinEntityOtherPlayerMP",
+    "entity.MixinEntityPlayerSP",
+    "entity.MixinEntityRenderer",
+    "gui.MixinGuiIngame",
+    "network.MixinNetworkManager",
+    "render.MixinRenderEnderCrystal",
+    "render.MixinRenderLivingBase"
+  ]
+}

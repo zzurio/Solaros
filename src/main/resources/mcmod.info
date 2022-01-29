@@ -1,0 +1,18 @@
+[
+  {
+    "modid": "solaros",
+    "name": "Solaros",
+    "description": "Big mod for 1.12.2.",
+    "version": "0.0.1",
+    "mcversion": "1.12.2-14.23.5.2772",
+    "url": "",
+    "updateUrl": "",
+    "authorList": [
+      "zzurio"
+    ],
+    "credits": "zzurio",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
