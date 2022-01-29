@@ -1,4 +1,4 @@
-# Solaros (Posting source this weekend)
+# Solaros 
 Forge mod for anarchy servers. (1.12.2)
 
 Q: **What is this?**
